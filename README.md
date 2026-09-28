@@ -65,7 +65,7 @@ upi-fraud-detection/
 ## Getting started
 
 ```bash
-git clone https://github.com/<your-username>/upi-fraud-detection.git
+git clone https://github.com/afzal-dev45/upi-fraud-detection.git
 cd upi-fraud-detection
 
 python -m venv .venv
